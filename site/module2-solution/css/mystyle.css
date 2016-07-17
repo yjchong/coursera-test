@@ -113,8 +113,8 @@ background-color:blue;
     float: left;
 	background-color:rgba(187,232,29,0.2);	
     border: 1px solid black;
-	padding: 0 2px 0 2px;
-	margin: 0 2px 0 2px;	
+	//padding: 0 2px 0 2px;
+	//margin: 0 2px 0 2px;	
 	
   }
   .col-md-1 {
@@ -161,8 +161,8 @@ background-color:blue;
     float: left;
 	background-color:rgba(187,232,29,0.2);	
     border: 1px solid black;
-	padding: 0 2px 0 2px;
-	margin: 0 2px 0 2px;	
+	//padding: 0 2px 0 2px;
+	//margin: 0 2px 0 2px;	
   }
   .col-sd-1 {
     width: 8.33%;
