@@ -1,0 +1,15 @@
+.message.green{
+	color:green;
+}
+
+.message.red{
+	color:red;
+}
+
+.textbox.green{
+	border: 4px solid green;
+}
+
+.textbox.red{
+	border: 4px solid red;
+}
